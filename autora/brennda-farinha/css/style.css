@@ -198,7 +198,7 @@ hr {
 }
 
 .intro__img {
-    width: 350px;
+    max-width: 350px;
 }
 
 .intro__texto {
